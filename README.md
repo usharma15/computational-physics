@@ -1,6 +1,6 @@
 # Computational Physics
 
-Python notebooks by **Udayan Sharma**, developed for PHYS 580 computational physics coursework in Spring 2026. The collection explores how numerical methods connect physical models to trajectories, fields, statistical observables, and quantum states.
+Python notebooks on computational physics. The collection explores how numerical methods connect physical models to trajectories, fields, statistical observables, and quantum states.
 
 The 21 notebooks are organized by subject and named for their contents. They retain their original code comments, acknowledgments, and saved outputs; each has a short descriptive introduction.
 
