@@ -85,7 +85,7 @@ NumPy 2 or later is needed by notebooks using `numpy.trapezoid`. SciPy and mpmat
 
 ### Execution notes
 
-- These are coursework notebooks containing independent experiments and, in some cases, abbreviated snippet cells. Read a cell before running it; some reuse names or require the preceding full experiment.
+- These are notebooks containing independent experiments and, in some cases, abbreviated snippet cells. Read a cell before running it; some reuse names or require the preceding full experiment.
 - Several notebooks request parameters with `input()`. Large Monte Carlo, molecular-dynamics, eigenvalue, and orbital sweeps can take substantial time.
 - The introductory Python notebook reads `/number.txt` for one file-summing exercise. That data file was not included in the Colab notebook collection; provide a whitespace-separated integer file and adjust the path, or skip that cell.
 - The introductory notebook requests Matplotlib's `TkAgg` backend. For a headless environment or Colab, select an inline backend or remove that backend selection before running those cells.
@@ -94,6 +94,6 @@ NumPy 2 or later is needed by notebooks using `numpy.trapezoid`. SciPy and mpmat
 
 ## Source and import notes
 
-The collection contains all 21 notebooks owned by this account in its Colab Notebooks folder: 13 labs, 7 homework notebooks, and a standalone Mercury-precession notebook. Shared lecture notebooks in the recent-files history are not included.
+The collection contains all 21 notebooks owned by this account in its Colab Notebooks folder:.
 
 See [the source index](SOURCE_INDEX.md) for the original-to-descriptive filename mapping. The import adds a title and description to each notebook and corrects one duplicated semicolon in the Ising specific-heat snippets cell. Original source comments, including attribution and AI-use acknowledgments, and saved outputs are preserved.
